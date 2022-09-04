@@ -1,0 +1,24 @@
+.container {
+    background-color: crimson;   
+     width: 600px;
+    margin-left: auto ;
+    margin-right: auto;
+    margin: 0 auto;
+}
+h1 {
+    font-size: 60px;
+    color: yellow;
+}
+body {
+    background-color: crimson;
+    font-size:x-large;
+    color:yellow;
+}
+a {
+    color:black;
+}
+button {
+    color: chartreuse;
+    border-color: chartreuse;
+    background-color: chartreuse;
+}
