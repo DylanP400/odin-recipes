@@ -1,5 +1,5 @@
 .container {
-    background-color: crimson;   
+    background-color: turquoise;   
      width: 600px;
     margin-left: auto ;
     margin-right: auto;
@@ -10,15 +10,15 @@ h1 {
     color: yellow;
 }
 body {
-    background-color: crimson;
+    background-color: turquoise;
     font-size:x-large;
-    color:yellow;
+    color:black;
 }
 a {
     color:black;
 }
 button {
-    color: chartreuse;
+    color: black;
     border-color: chartreuse;
     background-color: chartreuse;
 }
