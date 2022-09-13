@@ -1,0 +1,38 @@
+body {
+color: black;
+background-color:lavenderblush;
+}
+.margin {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1 {
+    color:tan;
+    font-size: 50px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+p {
+    color:slategray;
+    font-size:x-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2 {
+    color: chartreuse;
+}
+.btn {
+    padding: 20px;
+    color:black;
+}
+.btn-1 {
+background-color:green;
+}
+.btn-2 {
+background-color:white;
+}
+.btn-3 {
+background-color:gold;
+}
+a {
+color: red;
+}
