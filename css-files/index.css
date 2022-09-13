@@ -1,18 +1,17 @@
-.container {
-    background-color: turquoise;   
-     width: 600px;
-    margin-left: auto ;
-    margin-right: auto;
-    margin: 0 auto;
-}
 h1 {
     font-size: 70px;
-    color: yellow;
+    color:aquamarine;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 body {
-    background-color: turquoise;
+    background-color: lightpink;
     font-size:x-large;
     color:black;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 0 auto;
+    width: 600px;
+    font-family: 'Times New Roman', Times, serif;
 }
 a {
     color:black;
@@ -22,5 +21,3 @@ button {
     border-color: chartreuse;
     background-color: chartreuse;
 }
-
-
