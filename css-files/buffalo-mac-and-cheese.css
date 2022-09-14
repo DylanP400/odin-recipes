@@ -1,5 +1,23 @@
-.margin {
+* {
     width: 600px;
     margin-left: auto;
     margin-right: auto;
+    background-color: darkgrey;
+}
+.h1box {
+    background-color: darkgrey;
+    margin: center;
+    padding: 5px;
+    border: 12px;
+    padding: 10px;
+    width: fit-content;
+    height: fit-content;
+    color: aqua;
+}
+.btn {
+    background-color: aqua;
+
+}
+a {
+    color: red;
 }
