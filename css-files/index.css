@@ -1,23 +1,62 @@
-h1 {
-    font-size: 70px;
-    color:aquamarine;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-}
 body {
-    background-color: lightpink;
-    font-size:x-large;
-    color:black;
+color: black;
+background-color:rebeccapurple;
+}
+.margin {
+    width: 400px;
     margin-left: auto;
     margin-right: auto;
-    margin: 0 auto;
-    width: 600px;
-    font-family: 'Times New Roman', Times, serif;
 }
-a {
+h1 {
+    color:tan;
+    font-size: 50px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+p {
+    color:slategray;
+    font-size:x-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2 {
+    color: chartreuse;
+}
+.btn {
+    padding: 20px;
     color:black;
 }
-button {
-    color: black;
-    border-color: chartreuse;
-    background-color: chartreuse;
+.btn-1 {
+background-color:green;
+}
+.btn-2 {
+background-color:darkorchid;
+}
+.btn-3 {
+background-color:gold;
+}
+a {
+color: red;
+} 
+* {
+    padding: 10px;
+    margin: 10px;
+    font-size: 20px;
+    border: 20px;
+}
+.box-two {
+   background-color:red;
+   color: black;
+   border: yellow;
+   border: 40px;
+   margin: 50px;
+   height: fit-content;
+   width: fit-content;
+}
+.box-one {
+    background-color: blue;
+    margin: -20px;
+    padding: 5px;
+    border: 12px;
+    padding: 12px;
+    width: fit-content;
+    height: fit-content;
 }
